@@ -1,4 +1,4 @@
-# Simon Memory Game - [Play the Memory Game](https://kilbeylyle.github.io/memory-game/)
+# Simon Memory Game - [Play the Clickit!](https://kilbeylyle.github.io/memory-game/)
 ![Resposive UI image](assests/imgs/readmeimgs/device_look.png)
 
 ## Overview
